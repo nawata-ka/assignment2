@@ -4,7 +4,7 @@
 history | grep [command]
 
 # Git
-git help
+git help<br>
 git init
 git config
 git init
